@@ -1,0 +1,70 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="源文件">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="头文件">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="资源文件">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="资源文件\map%255c%255c">
+      <UniqueIdentifier>{e7bc49e4-077d-487c-b172-8f05bb1b812f}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="function.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="main.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="game.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <Text Include="data\Map\1.txt" />
+    <Text Include="data\Map\2.txt" />
+    <Text Include="data\Map\3.txt" />
+    <Text Include="data\Map\4.txt" />
+    <Text Include="data\Map\5.txt" />
+    <Text Include="data\Map\6.txt" />
+    <Text Include="data\Map\7.txt" />
+    <Text Include="data\Map\8.txt" />
+    <Text Include="data\Map\9.txt" />
+    <Text Include="data\Map\10.txt" />
+    <Text Include="data\Map\11.txt" />
+    <Text Include="data\Map\12.txt" />
+    <Text Include="data\Map\13.txt" />
+    <Text Include="data\Map\14.txt" />
+    <Text Include="data\Map\15.txt" />
+    <Text Include="data\Map\16.txt" />
+    <Text Include="data\Map\17.txt" />
+    <Text Include="data\Map\18.txt" />
+    <Text Include="data\Map\19.txt" />
+    <Text Include="data\Map\20.txt" />
+    <Text Include="data\Map\21.txt" />
+    <Text Include="data\Map\22.txt" />
+    <Text Include="data\Map\23.txt" />
+    <Text Include="data\Map\24.txt" />
+    <Text Include="data\Map\25.txt" />
+    <Text Include="data\Map\26.txt" />
+    <Text Include="data\Map\27.txt" />
+    <Text Include="data\Map\28.txt" />
+    <Text Include="data\Map\29.txt" />
+    <Text Include="data\Map\30.txt" />
+    <Text Include="data\Map\31.txt" />
+    <Text Include="data\Map\32.txt" />
+    <Text Include="data\Map\33.txt" />
+    <Text Include="data\Map\34.txt" />
+    <Text Include="data\Map\35.txt" />
+  </ItemGroup>
+</Project>

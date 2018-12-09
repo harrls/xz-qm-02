@@ -1,0 +1,13 @@
+EGE 
+
+”Œœ∑—≠ª∑
+void gameLoo(...)
+{
+init()£ª
+update();
+render();//‰÷»æ
+delay();//—”≥Ÿ
+if(isEnd())break;
+}
+clear();
+

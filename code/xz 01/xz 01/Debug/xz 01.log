@@ -1,0 +1,8 @@
+﻿  game.c
+d:\cc++\xz\xz 01\xz 01\game.c(91): warning C4013: “getch”未定义；假设外部返回 int
+d:\cc++\xz\xz 01\xz 01\game.c(182): warning C4047: “=”:“char”与“void *”的间接级别不同
+d:\cc++\xz\xz 01\xz 01\game.c(507): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(1774): note: 参见“sprintf”的声明
+d:\cc++\xz\xz 01\xz 01\game.c(508): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(208): note: 参见“fopen”的声明
+  xz 01.vcxproj -> D:\CC++\XZ\xz 01\Debug\xz 01.exe

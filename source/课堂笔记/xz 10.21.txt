@@ -1,0 +1,16 @@
+10.21
+C语言判断语句
+  if else 
+  switch case break 
+  判断嵌套：判断中加判断
+循环语句
+  while循环 
+  for循环
+  循环嵌套<=3层
+  continue
+数组
+  注意：不能数组越界
+	
+  矩阵先行后列
+
+SiriYXR KurisShiina
